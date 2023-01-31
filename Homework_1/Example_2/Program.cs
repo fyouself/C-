@@ -11,10 +11,10 @@ System.Console.WriteLine("Write number b");
 int b = Convert.ToInt32(Console.ReadLine());
 if (a > b)
 {
-System.Console.WriteLine( "max = " + a);
+    System.Console.WriteLine("max = " + a);
 }
 else
 {
-    System.Console.WriteLine( "max = " + b);
+    System.Console.WriteLine("max = " + b);
 }
 
