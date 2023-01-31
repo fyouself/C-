@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GeekBrains\\3. C#\\github\\Homework_1\\Exemple_2\\Exemple_2.csproj",
+      "projectUniqueName": "C:\\GeekBrains\\3. C#\\Github\\Homework_1\\Example_2\\Exemple_2.csproj",
       "projectName": "Exemple_2",
-      "projectPath": "C:\\GeekBrains\\3. C#\\github\\Homework_1\\Exemple_2\\Exemple_2.csproj",
+      "projectPath": "C:\\GeekBrains\\3. C#\\Github\\Homework_1\\Example_2\\Exemple_2.csproj",
       "packagesPath": "C:\\Users\\fyous\\.nuget\\packages\\",
-      "outputPath": "C:\\GeekBrains\\3. C#\\github\\Homework_1\\Exemple_2\\obj\\",
+      "outputPath": "C:\\GeekBrains\\3. C#\\Github\\Homework_1\\Example_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fyous\\AppData\\Roaming\\NuGet\\NuGet.Config"
