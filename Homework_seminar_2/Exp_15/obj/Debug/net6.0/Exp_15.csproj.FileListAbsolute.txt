@@ -1,0 +1,15 @@
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\bin\Debug\net6.0\Exp_15.exe
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\bin\Debug\net6.0\Exp_15.deps.json
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\bin\Debug\net6.0\Exp_15.runtimeconfig.json
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\bin\Debug\net6.0\Exp_15.dll
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\bin\Debug\net6.0\Exp_15.pdb
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\obj\Debug\net6.0\Exp_15.csproj.AssemblyReference.cache
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\obj\Debug\net6.0\Exp_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\obj\Debug\net6.0\Exp_15.AssemblyInfoInputs.cache
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\obj\Debug\net6.0\Exp_15.AssemblyInfo.cs
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\obj\Debug\net6.0\Exp_15.csproj.CoreCompileInputs.cache
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\obj\Debug\net6.0\Exp_15.dll
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\obj\Debug\net6.0\refint\Exp_15.dll
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\obj\Debug\net6.0\Exp_15.pdb
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\obj\Debug\net6.0\Exp_15.genruntimeconfig.cache
+C:\GeekBrains\3. C#\Github\Homework_2\Exp_15\obj\Debug\net6.0\ref\Exp_15.dll
