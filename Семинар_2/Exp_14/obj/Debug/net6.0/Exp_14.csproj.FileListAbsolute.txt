@@ -1,0 +1,15 @@
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\bin\Debug\net6.0\Exp_14.exe
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\bin\Debug\net6.0\Exp_14.deps.json
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\bin\Debug\net6.0\Exp_14.runtimeconfig.json
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\bin\Debug\net6.0\Exp_14.dll
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\bin\Debug\net6.0\Exp_14.pdb
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\obj\Debug\net6.0\Exp_14.csproj.AssemblyReference.cache
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\obj\Debug\net6.0\Exp_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\obj\Debug\net6.0\Exp_14.AssemblyInfoInputs.cache
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\obj\Debug\net6.0\Exp_14.AssemblyInfo.cs
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\obj\Debug\net6.0\Exp_14.csproj.CoreCompileInputs.cache
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\obj\Debug\net6.0\Exp_14.dll
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\obj\Debug\net6.0\refint\Exp_14.dll
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\obj\Debug\net6.0\Exp_14.pdb
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\obj\Debug\net6.0\Exp_14.genruntimeconfig.cache
+C:\GeekBrains\3. C#\Github\Семинар_2\Exp_14\obj\Debug\net6.0\ref\Exp_14.dll
