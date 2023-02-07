@@ -1,0 +1,15 @@
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\bin\Debug\net6.0\Exp_23.exe
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\bin\Debug\net6.0\Exp_23.deps.json
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\bin\Debug\net6.0\Exp_23.runtimeconfig.json
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\bin\Debug\net6.0\Exp_23.dll
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\bin\Debug\net6.0\Exp_23.pdb
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\obj\Debug\net6.0\Exp_23.csproj.AssemblyReference.cache
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\obj\Debug\net6.0\Exp_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\obj\Debug\net6.0\Exp_23.AssemblyInfoInputs.cache
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\obj\Debug\net6.0\Exp_23.AssemblyInfo.cs
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\obj\Debug\net6.0\Exp_23.csproj.CoreCompileInputs.cache
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\obj\Debug\net6.0\Exp_23.dll
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\obj\Debug\net6.0\refint\Exp_23.dll
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\obj\Debug\net6.0\Exp_23.pdb
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\obj\Debug\net6.0\Exp_23.genruntimeconfig.cache
+C:\GeekBrains\3. C#\Github\Homework_seminar_3\Exp_23\obj\Debug\net6.0\ref\Exp_23.dll
