@@ -27,6 +27,6 @@ int Size = PutNumber("Введите развер массива: ");
 int leftLimit = PutNumber("Введите левую границу чисел: ");
 int rigthLimit = PutNumber("Введите правую границу чисел: "); 
 
-int[] array = AddRandomArray(Size, leftLimit, rigthLimit);
+int[] new_array = AddRandomArray(Size, leftLimit, rigthLimit);
 
-System.Console.WriteLine("Ваш массив чисел [" + string.Join(", ", array) + "]");
+System.Console.WriteLine("Ваш массив чисел [" + string.Join(", ", new_array) + "]");
