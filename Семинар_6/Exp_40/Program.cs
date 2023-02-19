@@ -8,10 +8,7 @@
 // 44 -> 101100
 // 3  -> 11
 // 2  -> 10
-
-
 //  System.Console.WriteLine("Введите число: ");
-
 //  int number = Convert.ToInt32(Console.ReadLine());
 //  int count=1;
 //  int temp = number;
@@ -20,7 +17,6 @@
 //     count++;
 //     temp /=2;
 // }
-
 // int [] array = new int[count];
 // for ( int i = 0; i < count; i++  )
 // {
